@@ -1,0 +1,45 @@
+<UserData Version="3.10.0.0">
+  <OpenedDocuments>
+    <FilePathData />
+  </OpenedDocuments>
+  <ActiveDocument />
+  <Properties>
+    <Item Key="PackageParamsKey">
+      <Value ctype="PackageParams">
+        <LuaIsEncrypt Value="False" />
+        <LuaEncryptKey Value="" />
+        <LuaEncryptSign Value="" />
+        <Android_PackageName Value="org.cocos.CocosProject" />
+        <AndroidkeyStore Value="" />
+        <AndroidVersion Value="android-10" />
+        <iOS_Target Value="CocosProject iOS" />
+        <iOS_BundleID Value="iPhone Distribution: Ros Media (H2S6TV5WJW)" />
+        <Platform Value="Android" />
+        <RunPlatform Value="Mac" />
+        <FrameworkVersion Value="cocos2d-x-3.4rc1" />
+        <IsDebugKeystore Value="True" />
+        <KeystorePassword Value="" />
+        <KeystoreAliasName Value="" />
+        <KeystoreAliasPassword Value="" />
+        <EnableSourceMap Value="False" />
+        <EnableHTML5Advanced Value="False" />
+      </Value>
+    </Item>
+    <Item Key="CocosRecentOperation">
+      <Value ctype="CocosRecentOperation">
+        <LastPublishType Value="Resource" />
+        <IsLastPublish Value="True" />
+        <LastRunType Value="Mac" />
+      </Value>
+    </Item>
+    <Item Key="TabsParamsKey">
+      <Value ctype="TabsInfo">
+        <OpenedDocuments>
+          <FilePathData Path="InstructionsScene.csd" />
+          <FilePathData Path="PlayScene.csd" />
+        </OpenedDocuments>
+        <ActiveDocument Path="PlayScene.csd" />
+      </Value>
+    </Item>
+  </Properties>
+</UserData>
