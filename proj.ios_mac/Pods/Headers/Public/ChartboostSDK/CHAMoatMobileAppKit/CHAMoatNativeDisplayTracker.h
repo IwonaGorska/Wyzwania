@@ -1,1 +1,0 @@
-../../../../ChartboostSDK/CHAMoatMobileAppKit.framework/Versions/A/Headers/CHAMoatNativeDisplayTracker.h
