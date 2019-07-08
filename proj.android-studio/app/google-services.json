@@ -1,0 +1,1378 @@
+{
+  "project_info": {
+    "project_number": "354797241783",
+    "firebase_url": "https://soy-lore-121108.firebaseio.com",
+    "project_id": "soy-lore-121108",
+    "storage_bucket": "soy-lore-121108.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:354797241783:android:b660bce96363b378",
+        "android_client_info": {
+          "package_name": "air.com.rosapp.AlfabetEng"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "354797241783-ck7adlj6j78fjmv2frnfl3qpapukuila.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "air.com.rosapp.AlfabetEng",
+            "certificate_hash": "9ca4e793eae9f787633e921b4529114f60d2edaa"
+          }
+        },
+        {
+          "client_id": "354797241783-juda9jp8b6u2eicom1n940mve3j7fuoo.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "354797241783-2gkbr49ecqa1hff0v8pt38gbucavk7fb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAm38gm93qYBaEekDTD9xQYTO7qWWx2G-w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "354797241783-juda9jp8b6u2eicom1n940mve3j7fuoo.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "354797241783-nrh8ni4iun2un397gkkjgnfjrboq9v9i.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.rosapp.AlfabetEngLite"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:354797241783:android:52bb461461aac78e",
+        "android_client_info": {
+          "package_name": "com.proliberis.Pszczoly"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "354797241783-0ocu8qtqrm3l9m3u56mq1bf0s1n1bd3e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.proliberis.Pszczoly",
+            "certificate_hash": "9ca4e793eae9f787633e921b4529114f60d2edaa"
+          }
+        },
+        {
+          "client_id": "354797241783-juda9jp8b6u2eicom1n940mve3j7fuoo.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "354797241783-2gkbr49ecqa1hff0v8pt38gbucavk7fb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAm38gm93qYBaEekDTD9xQYTO7qWWx2G-w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "354797241783-juda9jp8b6u2eicom1n940mve3j7fuoo.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "354797241783-nrh8ni4iun2un397gkkjgnfjrboq9v9i.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.rosapp.AlfabetEngLite"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:354797241783:android:76f0f439b8cae9da",
+        "android_client_info": {
+          "package_name": "com.rosapp.AlfabetEngLite"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "354797241783-8r036vlcal6ds046bc70plc4hhbqbt6m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rosapp.AlfabetEngLite",
+            "certificate_hash": "9ca4e793eae9f787633e921b4529114f60d2edaa"
+          }
+        },
+        {
+          "client_id": "354797241783-juda9jp8b6u2eicom1n940mve3j7fuoo.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "354797241783-2gkbr49ecqa1hff0v8pt38gbucavk7fb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAm38gm93qYBaEekDTD9xQYTO7qWWx2G-w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "354797241783-juda9jp8b6u2eicom1n940mve3j7fuoo.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "354797241783-nrh8ni4iun2un397gkkjgnfjrboq9v9i.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.rosapp.AlfabetEngLite"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:354797241783:android:9c467c8c93dae315",
+        "android_client_info": {
+          "package_name": "com.rosapp.ColorBook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "354797241783-juda9jp8b6u2eicom1n940mve3j7fuoo.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "354797241783-2gkbr49ecqa1hff0v8pt38gbucavk7fb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAm38gm93qYBaEekDTD9xQYTO7qWWx2G-w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      },
+      "admob_app_id": "ca-app-pub-2575683230512628~7098987025"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:354797241783:android:6878b1f77e1dc848",
+        "android_client_info": {
+          "package_name": "com.rosapp.CyferkiFree"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "354797241783-cl8j9ksdrd3oi4ururv42ndhb3cq81c1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rosapp.CyferkiFree",
+            "certificate_hash": "9ca4e793eae9f787633e921b4529114f60d2edaa"
+          }
+        },
+        {
+          "client_id": "354797241783-juda9jp8b6u2eicom1n940mve3j7fuoo.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "354797241783-2gkbr49ecqa1hff0v8pt38gbucavk7fb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAm38gm93qYBaEekDTD9xQYTO7qWWx2G-w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "354797241783-juda9jp8b6u2eicom1n940mve3j7fuoo.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "354797241783-nrh8ni4iun2un397gkkjgnfjrboq9v9i.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.rosapp.AlfabetEngLite"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:354797241783:android:e4b7c157e6a43b27",
+        "android_client_info": {
+          "package_name": "com.rosapp.Education"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "354797241783-ved6oudjhosmi5vq8fj2vi0j2l6ppobb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rosapp.Education",
+            "certificate_hash": "9ca4e793eae9f787633e921b4529114f60d2edaa"
+          }
+        },
+        {
+          "client_id": "354797241783-juda9jp8b6u2eicom1n940mve3j7fuoo.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "354797241783-2gkbr49ecqa1hff0v8pt38gbucavk7fb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAm38gm93qYBaEekDTD9xQYTO7qWWx2G-w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "354797241783-juda9jp8b6u2eicom1n940mve3j7fuoo.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "354797241783-nrh8ni4iun2un397gkkjgnfjrboq9v9i.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.rosapp.AlfabetEngLite"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:354797241783:android:d135c3a9bf14276f",
+        "android_client_info": {
+          "package_name": "com.rosapp.FirstGradeBingo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "354797241783-3gsev98oqvqa1d5e7c6d58i8cdimck4j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rosapp.FirstGradeBingo",
+            "certificate_hash": "b9a4aaa6c94f468a4ed25b2b0261784e663b0d8c"
+          }
+        },
+        {
+          "client_id": "354797241783-7q9tf2g6rso5ce0vqi48emfn3rcvtav0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rosapp.FirstGradeBingo",
+            "certificate_hash": "9ca4e793eae9f787633e921b4529114f60d2edaa"
+          }
+        },
+        {
+          "client_id": "354797241783-juda9jp8b6u2eicom1n940mve3j7fuoo.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "354797241783-2gkbr49ecqa1hff0v8pt38gbucavk7fb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAm38gm93qYBaEekDTD9xQYTO7qWWx2G-w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "354797241783-juda9jp8b6u2eicom1n940mve3j7fuoo.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "354797241783-nrh8ni4iun2un397gkkjgnfjrboq9v9i.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.rosapp.AlfabetEngLite"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:354797241783:android:0617ccb11cea7de5",
+        "android_client_info": {
+          "package_name": "com.rosapp.FirstGradeCrazyChicken"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "354797241783-1dmufaimh0450f1scu8hlo2jjs0lv54c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rosapp.FirstGradeCrazyChicken",
+            "certificate_hash": "b9a4aaa6c94f468a4ed25b2b0261784e663b0d8c"
+          }
+        },
+        {
+          "client_id": "354797241783-4ldttj5jrojc5v1v7m0jibn9r86a2jqv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rosapp.FirstGradeCrazyChicken",
+            "certificate_hash": "9ca4e793eae9f787633e921b4529114f60d2edaa"
+          }
+        },
+        {
+          "client_id": "354797241783-juda9jp8b6u2eicom1n940mve3j7fuoo.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "354797241783-2gkbr49ecqa1hff0v8pt38gbucavk7fb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAm38gm93qYBaEekDTD9xQYTO7qWWx2G-w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "354797241783-juda9jp8b6u2eicom1n940mve3j7fuoo.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "354797241783-nrh8ni4iun2un397gkkjgnfjrboq9v9i.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.rosapp.AlfabetEngLite"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:354797241783:android:dd57e4a3873b663c",
+        "android_client_info": {
+          "package_name": "com.rosapp.FirstGradeMemoDoors"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "354797241783-a8l360jfjhbhcu4lv65rrdu520qh1kne.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rosapp.FirstGradeMemoDoors",
+            "certificate_hash": "b9a4aaa6c94f468a4ed25b2b0261784e663b0d8c"
+          }
+        },
+        {
+          "client_id": "354797241783-a0vt7tfh2fp33aiohimdjjmbgp85li5j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rosapp.FirstGradeMemoDoors",
+            "certificate_hash": "9ca4e793eae9f787633e921b4529114f60d2edaa"
+          }
+        },
+        {
+          "client_id": "354797241783-juda9jp8b6u2eicom1n940mve3j7fuoo.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "354797241783-2gkbr49ecqa1hff0v8pt38gbucavk7fb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAm38gm93qYBaEekDTD9xQYTO7qWWx2G-w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "354797241783-juda9jp8b6u2eicom1n940mve3j7fuoo.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "354797241783-nrh8ni4iun2un397gkkjgnfjrboq9v9i.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.rosapp.AlfabetEngLite"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:354797241783:android:e826d64cff43cd27",
+        "android_client_info": {
+          "package_name": "com.rosapp.FirstGradeRaceChallange"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "354797241783-qb0tskdhi3he8644e0es410rsh07ara2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rosapp.FirstGradeRaceChallange",
+            "certificate_hash": "b9a4aaa6c94f468a4ed25b2b0261784e663b0d8c"
+          }
+        },
+        {
+          "client_id": "354797241783-dd83ieqjstb84doog1pl7s03d8hniaeo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rosapp.FirstGradeRaceChallange",
+            "certificate_hash": "9ca4e793eae9f787633e921b4529114f60d2edaa"
+          }
+        },
+        {
+          "client_id": "354797241783-juda9jp8b6u2eicom1n940mve3j7fuoo.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "354797241783-2gkbr49ecqa1hff0v8pt38gbucavk7fb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAm38gm93qYBaEekDTD9xQYTO7qWWx2G-w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "354797241783-juda9jp8b6u2eicom1n940mve3j7fuoo.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "354797241783-nrh8ni4iun2un397gkkjgnfjrboq9v9i.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.rosapp.AlfabetEngLite"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:354797241783:android:6be4b05e2bb8dbc6",
+        "android_client_info": {
+          "package_name": "com.rosapp.FirstGradeSaveTheCat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "354797241783-juda9jp8b6u2eicom1n940mve3j7fuoo.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "354797241783-j50g40fjc2oskt0s1kgggvk39412o97b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rosapp.FirstGradeSaveTheCat",
+            "certificate_hash": "9ca4e793eae9f787633e921b4529114f60d2edaa"
+          }
+        },
+        {
+          "client_id": "354797241783-4593bpk2smbmeoi9vmb2paltgcs3tua4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rosapp.FirstGradeSaveTheCat",
+            "certificate_hash": "b9a4aaa6c94f468a4ed25b2b0261784e663b0d8c"
+          }
+        },
+        {
+          "client_id": "354797241783-2gkbr49ecqa1hff0v8pt38gbucavk7fb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAm38gm93qYBaEekDTD9xQYTO7qWWx2G-w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "354797241783-juda9jp8b6u2eicom1n940mve3j7fuoo.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "354797241783-nrh8ni4iun2un397gkkjgnfjrboq9v9i.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.rosapp.AlfabetEngLite"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:354797241783:android:53da5d75ac4c29ae",
+        "android_client_info": {
+          "package_name": "com.rosapp.FirstGradeSpace"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "354797241783-juda9jp8b6u2eicom1n940mve3j7fuoo.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "354797241783-kfev65ei2pks7om1a1rcc41dl1hl5trh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rosapp.FirstGradeSpace",
+            "certificate_hash": "b9a4aaa6c94f468a4ed25b2b0261784e663b0d8c"
+          }
+        },
+        {
+          "client_id": "354797241783-o35t32a58lhlps7jpj8hqa6n3bfpt7j3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rosapp.FirstGradeSpace",
+            "certificate_hash": "9ca4e793eae9f787633e921b4529114f60d2edaa"
+          }
+        },
+        {
+          "client_id": "354797241783-2gkbr49ecqa1hff0v8pt38gbucavk7fb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAm38gm93qYBaEekDTD9xQYTO7qWWx2G-w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "354797241783-juda9jp8b6u2eicom1n940mve3j7fuoo.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "354797241783-nrh8ni4iun2un397gkkjgnfjrboq9v9i.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.rosapp.AlfabetEngLite"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:354797241783:android:795ceb96d7fe52f2",
+        "android_client_info": {
+          "package_name": "com.rosapp.HideAndSeek"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "354797241783-ptupq1uu7j2dtr8r1i2qivlb2h04shej.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rosapp.HideAndSeek",
+            "certificate_hash": "9ca4e793eae9f787633e921b4529114f60d2edaa"
+          }
+        },
+        {
+          "client_id": "354797241783-juda9jp8b6u2eicom1n940mve3j7fuoo.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "354797241783-2gkbr49ecqa1hff0v8pt38gbucavk7fb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAm38gm93qYBaEekDTD9xQYTO7qWWx2G-w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "354797241783-juda9jp8b6u2eicom1n940mve3j7fuoo.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "354797241783-nrh8ni4iun2un397gkkjgnfjrboq9v9i.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.rosapp.AlfabetEngLite"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:354797241783:android:713f3c6fa6c35a83",
+        "android_client_info": {
+          "package_name": "com.rosapp.HideAndSeekAmazon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "354797241783-lnjlv8ctv8ajaj7hcf42frpjen15ilfv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rosapp.HideAndSeekAmazon",
+            "certificate_hash": "9ca4e793eae9f787633e921b4529114f60d2edaa"
+          }
+        },
+        {
+          "client_id": "354797241783-juda9jp8b6u2eicom1n940mve3j7fuoo.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "354797241783-2gkbr49ecqa1hff0v8pt38gbucavk7fb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAm38gm93qYBaEekDTD9xQYTO7qWWx2G-w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "354797241783-juda9jp8b6u2eicom1n940mve3j7fuoo.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "354797241783-nrh8ni4iun2un397gkkjgnfjrboq9v9i.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.rosapp.AlfabetEngLite"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:354797241783:android:e202380f9ccaf5b5",
+        "android_client_info": {
+          "package_name": "com.rosapp.HideAndSeekFull"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "354797241783-dd2ufieeb73f5qbe3amug8nmask2r3sh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rosapp.HideAndSeekFull",
+            "certificate_hash": "9ca4e793eae9f787633e921b4529114f60d2edaa"
+          }
+        },
+        {
+          "client_id": "354797241783-juda9jp8b6u2eicom1n940mve3j7fuoo.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "354797241783-2gkbr49ecqa1hff0v8pt38gbucavk7fb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAm38gm93qYBaEekDTD9xQYTO7qWWx2G-w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "354797241783-juda9jp8b6u2eicom1n940mve3j7fuoo.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "354797241783-nrh8ni4iun2un397gkkjgnfjrboq9v9i.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.rosapp.AlfabetEngLite"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:354797241783:android:41646f70b94f8039",
+        "android_client_info": {
+          "package_name": "com.rosapp.MusicBox"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "354797241783-ttq1qh40hfc3dgnt067v8qrfqdop9ipv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rosapp.MusicBox",
+            "certificate_hash": "9ca4e793eae9f787633e921b4529114f60d2edaa"
+          }
+        },
+        {
+          "client_id": "354797241783-juda9jp8b6u2eicom1n940mve3j7fuoo.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "354797241783-2gkbr49ecqa1hff0v8pt38gbucavk7fb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAm38gm93qYBaEekDTD9xQYTO7qWWx2G-w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "354797241783-juda9jp8b6u2eicom1n940mve3j7fuoo.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "354797241783-nrh8ni4iun2un397gkkjgnfjrboq9v9i.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.rosapp.AlfabetEngLite"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:354797241783:android:ab5f4035cf6af81e",
+        "android_client_info": {
+          "package_name": "com.rosapp.MusicBoxFull"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "354797241783-qhsohh678d5jff7pr1j8e3omnstdealt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rosapp.MusicBoxFull",
+            "certificate_hash": "9ca4e793eae9f787633e921b4529114f60d2edaa"
+          }
+        },
+        {
+          "client_id": "354797241783-juda9jp8b6u2eicom1n940mve3j7fuoo.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "354797241783-2gkbr49ecqa1hff0v8pt38gbucavk7fb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAm38gm93qYBaEekDTD9xQYTO7qWWx2G-w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "354797241783-juda9jp8b6u2eicom1n940mve3j7fuoo.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "354797241783-nrh8ni4iun2un397gkkjgnfjrboq9v9i.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.rosapp.AlfabetEngLite"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:354797241783:android:01f3c1b0ccce865a",
+        "android_client_info": {
+          "package_name": "com.rosapp.Numbers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "354797241783-ef9jjkjqcpho041serp1jlp7m1v9g6bd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rosapp.Numbers",
+            "certificate_hash": "9ca4e793eae9f787633e921b4529114f60d2edaa"
+          }
+        },
+        {
+          "client_id": "354797241783-juda9jp8b6u2eicom1n940mve3j7fuoo.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "354797241783-2gkbr49ecqa1hff0v8pt38gbucavk7fb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAm38gm93qYBaEekDTD9xQYTO7qWWx2G-w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "354797241783-juda9jp8b6u2eicom1n940mve3j7fuoo.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "354797241783-nrh8ni4iun2un397gkkjgnfjrboq9v9i.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.rosapp.AlfabetEngLite"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:354797241783:android:0c2e27412ef1432e",
+        "android_client_info": {
+          "package_name": "com.rosapp.akuku"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "354797241783-l8ffperuc5odafqu91lin200gn3l8hf7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rosapp.akuku",
+            "certificate_hash": "9ca4e793eae9f787633e921b4529114f60d2edaa"
+          }
+        },
+        {
+          "client_id": "354797241783-juda9jp8b6u2eicom1n940mve3j7fuoo.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "354797241783-2gkbr49ecqa1hff0v8pt38gbucavk7fb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAm38gm93qYBaEekDTD9xQYTO7qWWx2G-w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "354797241783-juda9jp8b6u2eicom1n940mve3j7fuoo.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "354797241783-nrh8ni4iun2un397gkkjgnfjrboq9v9i.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.rosapp.AlfabetEngLite"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:354797241783:android:62085487065f136d",
+        "android_client_info": {
+          "package_name": "com.rosapp.bee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "354797241783-20klr0g6b7tb0u2vhbdl5ejkat46apip.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rosapp.bee",
+            "certificate_hash": "9ca4e793eae9f787633e921b4529114f60d2edaa"
+          }
+        },
+        {
+          "client_id": "354797241783-juda9jp8b6u2eicom1n940mve3j7fuoo.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "354797241783-2gkbr49ecqa1hff0v8pt38gbucavk7fb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAm38gm93qYBaEekDTD9xQYTO7qWWx2G-w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "354797241783-juda9jp8b6u2eicom1n940mve3j7fuoo.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "354797241783-nrh8ni4iun2un397gkkjgnfjrboq9v9i.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.rosapp.AlfabetEngLite"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:354797241783:android:4e01fe04d818e350",
+        "android_client_info": {
+          "package_name": "pl.rosmedia.flashcardslite"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "354797241783-vcj1usj5k5n3dphe85k6fp2r84s69jef.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "pl.rosmedia.flashcardslite",
+            "certificate_hash": "9ca4e793eae9f787633e921b4529114f60d2edaa"
+          }
+        },
+        {
+          "client_id": "354797241783-juda9jp8b6u2eicom1n940mve3j7fuoo.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "354797241783-2gkbr49ecqa1hff0v8pt38gbucavk7fb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAm38gm93qYBaEekDTD9xQYTO7qWWx2G-w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "354797241783-juda9jp8b6u2eicom1n940mve3j7fuoo.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "354797241783-nrh8ni4iun2un397gkkjgnfjrboq9v9i.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.rosapp.AlfabetEngLite"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:354797241783:android:9cf595305e60aa3a",
+        "android_client_info": {
+          "package_name": "pl.rosmedia.memo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "354797241783-st54te0p5cuen5a9ptt0tsehm7oenc9h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "pl.rosmedia.memo",
+            "certificate_hash": "b9a4aaa6c94f468a4ed25b2b0261784e663b0d8c"
+          }
+        },
+        {
+          "client_id": "354797241783-9eain3r4jg9rr95ihgdtad1bv9vlo0eo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "pl.rosmedia.memo",
+            "certificate_hash": "9ca4e793eae9f787633e921b4529114f60d2edaa"
+          }
+        },
+        {
+          "client_id": "354797241783-juda9jp8b6u2eicom1n940mve3j7fuoo.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "354797241783-2gkbr49ecqa1hff0v8pt38gbucavk7fb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAm38gm93qYBaEekDTD9xQYTO7qWWx2G-w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "354797241783-juda9jp8b6u2eicom1n940mve3j7fuoo.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "354797241783-nrh8ni4iun2un397gkkjgnfjrboq9v9i.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.rosapp.AlfabetEngLite"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      },
+      "admob_app_id": "ca-app-pub-2575683230512628~4827810629"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:354797241783:android:326f493837448e12",
+        "android_client_info": {
+          "package_name": "pl.rosmedia.music"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "354797241783-0o4ltgcnjl0933bcilm6e6vta7et7ehl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "pl.rosmedia.music",
+            "certificate_hash": "b9a4aaa6c94f468a4ed25b2b0261784e663b0d8c"
+          }
+        },
+        {
+          "client_id": "354797241783-b7vr49df4v2a2f14q11k0fmcug9mcbf9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "pl.rosmedia.music",
+            "certificate_hash": "9ca4e793eae9f787633e921b4529114f60d2edaa"
+          }
+        },
+        {
+          "client_id": "354797241783-juda9jp8b6u2eicom1n940mve3j7fuoo.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "354797241783-2gkbr49ecqa1hff0v8pt38gbucavk7fb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAm38gm93qYBaEekDTD9xQYTO7qWWx2G-w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "354797241783-juda9jp8b6u2eicom1n940mve3j7fuoo.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "354797241783-nrh8ni4iun2un397gkkjgnfjrboq9v9i.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.rosapp.AlfabetEngLite"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      },
+      "admob_app_id": "ca-app-pub-2575683230512628~9942667829"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:354797241783:android:80c1d967f102682d",
+        "android_client_info": {
+          "package_name": "pl.rosmedia.musicfull"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "354797241783-sk4v9kd6tpipcc82vk0q46vlbl4tsnso.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "pl.rosmedia.musicfull",
+            "certificate_hash": "9ca4e793eae9f787633e921b4529114f60d2edaa"
+          }
+        },
+        {
+          "client_id": "354797241783-juda9jp8b6u2eicom1n940mve3j7fuoo.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "354797241783-2gkbr49ecqa1hff0v8pt38gbucavk7fb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAm38gm93qYBaEekDTD9xQYTO7qWWx2G-w"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "354797241783-juda9jp8b6u2eicom1n940mve3j7fuoo.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "354797241783-nrh8ni4iun2un397gkkjgnfjrboq9v9i.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.rosapp.AlfabetEngLite"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

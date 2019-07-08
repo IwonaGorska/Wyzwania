@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Wyzwania</string>
+    <string name="exit_warning" translatable="false">Press BACK again to exit..</string>
+    <!--<string name="facebook_app_id">1840585702879343</string>-->
+</resources>
