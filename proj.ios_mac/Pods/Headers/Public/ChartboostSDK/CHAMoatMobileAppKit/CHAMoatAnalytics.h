@@ -1,0 +1,1 @@
+../../../../ChartboostSDK/CHAMoatMobileAppKit.framework/Versions/A/Headers/CHAMoatAnalytics.h
